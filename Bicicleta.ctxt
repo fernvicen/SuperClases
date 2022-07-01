@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=Bicicleta
+comment1.params=color\ marca\ ruedas\ tipo\ costo\ suspencion\ rodada\ estructura
+comment1.target=Bicicleta(java.lang.String,\ java.lang.String,\ java.lang.String,\ java.lang.String,\ java.lang.String,\ java.lang.String,\ java.lang.String,\ java.lang.String)
+comment2.params=rodada
+comment2.target=void\ setRodada(java.lang.String)
+comment3.params=
+comment3.target=java.lang.String\ getRodada()
+comment4.params=estructura
+comment4.target=void\ setEstructura(java.lang.String)
+comment5.params=
+comment5.target=java.lang.String\ getEstructura()
+numComments=6

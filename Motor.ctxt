@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.target=Motor
+comment1.params=color\ marca\ ruedas\ tipo\ costo\ suspencion\ Motor\ capacidad\ rendimiento
+comment1.target=Motor(java.lang.String,\ java.lang.String,\ java.lang.String,\ java.lang.String,\ java.lang.String,\ java.lang.String,\ java.lang.String,\ java.lang.String,\ java.lang.String)
+comment2.params=motor
+comment2.target=void\ setMotor(java.lang.String)
+comment3.params=
+comment3.target=java.lang.String\ getMotor()
+comment4.params=capacidad
+comment4.target=void\ setCapacidad(java.lang.String)
+comment5.params=
+comment5.target=java.lang.String\ getCapacidad()
+comment6.params=rendimiento
+comment6.target=void\ setRendimiento(java.lang.String)
+comment7.params=
+comment7.target=java.lang.String\ getRendimiento()
+numComments=8

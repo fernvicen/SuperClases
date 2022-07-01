@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=Auto
+comment1.params=color\ marca\ ruedas\ tipo\ costo\ suspencion\ motor\ capacidad\ rendimiento\ placas\ pasajeros
+comment1.target=Auto(java.lang.String,\ java.lang.String,\ java.lang.String,\ java.lang.String,\ java.lang.String,\ java.lang.String,\ java.lang.String,\ java.lang.String,\ java.lang.String,\ java.lang.String,\ java.lang.String)
+comment2.params=placas
+comment2.target=void\ setPlacas(java.lang.String)
+comment3.params=
+comment3.target=java.lang.String\ getPlacas()
+comment4.params=pasajeros
+comment4.target=void\ setPasajeros(java.lang.String)
+comment5.params=
+comment5.target=java.lang.String\ getPasajeros()
+numComments=6

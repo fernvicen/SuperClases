@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=printCamioneta
+comment1.params=color\ marca\ ruedas\ tipo\ costo\ suspencion\ motor\ capacidad\ rendimiento\ carga\ funcion\ combustible
+comment1.target=printCamioneta(java.lang.String,\ java.lang.String,\ java.lang.String,\ java.lang.String,\ java.lang.String,\ java.lang.String,\ java.lang.String,\ java.lang.String,\ java.lang.String,\ java.lang.String,\ java.lang.String,\ java.lang.String)
+comment2.params=
+comment2.target=void\ imprimir()
+numComments=3

@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.target=Camioneta
+comment1.params=color\ marca\ ruedas\ tipo\ costo\ suspencion\ motor\ capacidad\ rendimiento\ carga\ funcion\ combustible
+comment1.target=Camioneta(java.lang.String,\ java.lang.String,\ java.lang.String,\ java.lang.String,\ java.lang.String,\ java.lang.String,\ java.lang.String,\ java.lang.String,\ java.lang.String,\ java.lang.String,\ java.lang.String,\ java.lang.String)
+comment2.params=carga
+comment2.target=void\ setCarga(java.lang.String)
+comment3.params=
+comment3.target=java.lang.String\ getCarga()
+comment4.params=funcion
+comment4.target=void\ setFuncion(java.lang.String)
+comment5.params=
+comment5.target=java.lang.String\ getFuncion()
+comment6.params=combustible
+comment6.target=void\ setCombustible(java.lang.String)
+comment7.params=
+comment7.target=java.lang.String\ getCombustible()
+numComments=8
